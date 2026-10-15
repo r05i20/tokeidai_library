@@ -1,3 +1,4 @@
+// https://github.com/r05i20/tokeidai_library/blob/main/graph/Eulerian_Trail.hpp
 vector<int> EulerianTrail(const int s, vector<vector<int>> &g, const bool directed) {
         function<void (int, vector<int> &)> dfs = & {
                 while (!g[u].empty()) {

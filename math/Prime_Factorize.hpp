@@ -1,3 +1,4 @@
+// https://github.com/r05i20/tokeidai_library/blob/main/math/Prime_Factorize.hpp
 template<typename T>
 vector<pair<T, T>> Prime_Factorize(T x) {
     vector<pair<T, long long>> ans;

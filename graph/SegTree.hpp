@@ -1,3 +1,4 @@
+// https://github.com/r05i20/tokeidai_library/blob/main/graph/SegTree.hpp
 // SegmentTree<int> seg(N, [](int a, int b){return min(a,b);}, (1LL<<31)-1);
 template <typename T>
 struct SegmentTree {

@@ -1,3 +1,4 @@
+// https://github.com/r05i20/tokeidai_library/blob/main/graph/Kahn.hpp
 template<typename T>
 vector<int> topological_sort(vector<vector<T>> &g){
     int N=g.size();

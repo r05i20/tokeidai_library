@@ -1,3 +1,4 @@
+// https://github.com/r05i20/tokeidai_library/blob/main/math/Eratosthenes.hpp
 struct Eratosthenes {
     vector<bool> isprime;
     vector<int> minfactor;

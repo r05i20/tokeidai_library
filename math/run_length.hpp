@@ -1,3 +1,4 @@
+// https://github.com/r05i20/tokeidai_library/blob/main/math/run_length.hpp
 template<class Container>
 auto run_length(const Container& v) {
     using T = typename Container::value_type;

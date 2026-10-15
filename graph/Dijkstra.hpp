@@ -1,3 +1,4 @@
+// https://github.com/r05i20/tokeidai_library/blob/main/graph/Dijkstra.hpp
 // N : 頂点数、r : 始点
 vector<ll> Dijkstra(int N, int r, vector<vector<ll,int>> &G)
 {

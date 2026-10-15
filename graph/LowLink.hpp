@@ -1,3 +1,4 @@
+// https://github.com/r05i20/tokeidai_library/blob/main/graph/LowLink.hpp
 struct LowLink
 {
     /* Lowlink: グラフの関節点・橋を列挙する構造体
